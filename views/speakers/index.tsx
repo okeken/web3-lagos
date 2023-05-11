@@ -1,5 +1,5 @@
 const Speakers = () => {
-  return <>Speakers</>;
+  return <>Speakers .</>;
 };
 
 export default Speakers;
